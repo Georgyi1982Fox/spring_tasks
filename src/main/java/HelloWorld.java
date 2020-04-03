@@ -10,4 +10,6 @@ public class HelloWorld {
         this.message = message;
     }
      
+    public String message(){
+}
 }
